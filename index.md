@@ -1,5 +1,9 @@
 ### Java Meetup São Paulo
  
+<img style="float: left;margin: 5px" width="30" src="img/meetup.png"/>
+
+## [Meetup](https://www.meetup.com/Sao-Paulo-Java-Meetup/events/265790433/)
+
 Participe de nossas redes sociais!
 
 <img style="float: left;margin: 5px" width="30" src="img/linkedin.png"/>
@@ -27,7 +31,7 @@ E também:
 
 <img style="float: left;margin: 5px" width="30" src="img/youtube.png"/>
 
-## [YouTube](https://www.youtube.com/channel/UCjQtPPwMApg6mjEX-6wiXwA) - veja os nossas palestras
+## [YouTube](https://www.youtube.com/channel/UCjQtPPwMApg6mjEX-6wiXwA) - veja as nossas palestras
 
 <img style="float: left;margin: 5px" width="30" src="img/github.png"/>
 

@@ -2,7 +2,7 @@
  
 <img style="float: left;margin: 5px" width="30" src="img/meetup.png"/>
 
-## [Meetup](https://www.meetup.com/Sao-Paulo-Java-Meetup/events/265790433/)
+## [Meetup](https://www.meetup.com/Sao-Paulo-Java-Meetup/)
 
 Participe de nossas redes sociais!
 

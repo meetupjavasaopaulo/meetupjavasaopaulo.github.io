@@ -1,5 +1,5 @@
 ### Java Meetup São Paulo
-
+ 
 Participe de nossas redes sociais!
 
 <img style="float: left;margin: 5px" width="30" src="img/linkedin.png"/>
@@ -8,7 +8,8 @@ Participe de nossas redes sociais!
  
 <img style="float: left;margin: 5px" width="30" src="img/facebook.png"/>
 
-## [Facebook](https://www.facebook.com/MeetupJavaSaoPaulo) 
+## [Facebook](https://www.facebook.com/JavaMeetupSP) 
+  
 
 <img style="float: left;margin: 5px" width="30" src="img/twitter.png"/>
 
